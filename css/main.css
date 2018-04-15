@@ -105,6 +105,14 @@ section {
 	padding: 120px 100px;
 }
 
+#header-info h3 {
+	color: white;
+}
+
+#header-info p {
+	color: white;
+}
+
 
 /* Benefits */
 
