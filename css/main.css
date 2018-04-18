@@ -163,6 +163,11 @@ section {
     background-color: #f9f4f4;
 }
 
+
+#demo p {
+	padding-left: 80px;
+}
+
 #demo .icon {
     width: 90px;
     height: 90px;
