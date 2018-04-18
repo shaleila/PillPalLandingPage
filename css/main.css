@@ -278,21 +278,25 @@ section {
 }
 
 
-/* Google Home CTA */
+/* Up Next */
 
-#google-action {
+#up-next {
 	background-color: #f9f4f4;
 }
 
-#google-action img {
+#up-next img {
 	max-width: 250px;
 }
 
-#google-action .cta {
+#up-next p {
+	padding-left: 30%;
+}
+
+#up-next .cta {
 	background-color: white;
 }
 
-#google-action .triangle-isosceles:after {
+#up-next .triangle-isosceles:after {
 	right: 100px;
 	border-color: white transparent;
 }
