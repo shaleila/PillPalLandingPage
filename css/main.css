@@ -110,6 +110,59 @@ section {
 }
 
 
+
+/* Img Float */
+
+#img-float {
+    background-color: rgb(238, 238, 238);
+}
+
+
+#img-float p {
+	padding-left: 27%;
+}
+
+#img-float .icon {
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+    border: 3px solid #0099FF;
+    margin: 0 auto;
+	display: table;
+}
+
+#img-float .icon .fa {
+	font-size: 38px;
+	color: #0099FF;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#img-float .item {
+    padding-bottom: 40px;
+}
+
+#img-float .item p {
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+#img-float .devices {
+	margin-top: -280px;
+	max-width: 300px;
+}
+
+#img-float .alexa {
+	margin-top: -350px;
+	max-height: 350px;
+}
+
+#img-float .google-home {
+	margin-top: -286px;
+	max-height: 240px;
+}
+
+
 /* Benefits */
 
 #benefits {
