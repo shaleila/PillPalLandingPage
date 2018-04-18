@@ -156,6 +156,55 @@ section {
 }
 
 
+
+/* Demo */
+
+#demo {
+    background-color: #f9f4f4;
+}
+
+#demo .icon {
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+    border: 3px solid #0099FF;
+    margin: 0 auto;
+	display: table;
+}
+
+#demo .icon .fa {
+	font-size: 38px;
+	color: #0099FF;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#demo .item {
+    padding-bottom: 40px;
+}
+
+#demo .item p {
+	padding: 0 10px;
+}
+
+#demo .devices {
+	margin-top: -280px;
+	max-width: 300px;
+}
+
+#demo .alexa {
+	margin-top: -350px;
+	max-height: 350px;
+}
+
+#demo .google-home {
+	margin-top: -286px;
+	max-height: 240px;
+}
+
+
+
+
 /* Features */
 
 #features {
