@@ -189,7 +189,7 @@ section {
 }
 
 #demo .item p {
-	padding-left: 80px;
+	padding-left: 20%;
 }
 
 #demo .devices {
@@ -289,7 +289,7 @@ section {
 }
 
 #up-next p {
-	padding-left: 30%;
+	padding-left: 20%;
 }
 
 #up-next .cta {
