@@ -138,9 +138,9 @@ section {
 	vertical-align: middle;
 }
 
-#img-float .item {
+/* #img-float .item {
     padding-bottom: 40px;
-}
+} */
 
 #img-float .item p {
 	padding-left: 20%;
@@ -166,7 +166,7 @@ section {
 /* Benefits */
 
 #benefits {
-    background-color: white;
+    background-color: rgb(238, 238, 238);
 }
 
 #benefits .icon {
@@ -213,7 +213,7 @@ section {
 /* Demo */
 
 #demo {
-    background-color: rgb(238, 238, 238);
+    background-color: white;
 }
 
 
@@ -267,7 +267,7 @@ section {
 /* Features */
 
 #features {
-	background-color: rgb(238, 238, 238);
+	background-color: white;
 }
 
 #features .item {
@@ -335,7 +335,7 @@ section {
 /* Up Next */
 
 #up-next {
-	background-color: white;
+	background-color: rgb(238, 238, 238);
 }
 
 #up-next img {
