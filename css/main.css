@@ -166,7 +166,7 @@ section {
 /* Benefits */
 
 #benefits {
-    background-color: #f9f4f4;
+    background-color: white;
 }
 
 #benefits .icon {
@@ -275,7 +275,7 @@ section {
 }
 
 #features .item p {
-	background-color: white;
+	background-color: #D7E6F5;
 	padding: 50px;
 	border-top: 0px solid #0099FF;
 	font-size: 18px;
@@ -335,7 +335,7 @@ section {
 /* Up Next */
 
 #up-next {
-	background-color: #f9f4f4;
+	background-color: white;
 }
 
 #up-next img {
