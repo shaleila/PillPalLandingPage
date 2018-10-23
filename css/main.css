@@ -163,51 +163,6 @@ section {
 }
 
 
-/* Benefits */
-
-#benefits {
-    background-color: rgb(238, 238, 238);
-}
-
-#benefits .icon {
-    width: 90px;
-    height: 90px;
-    border-radius: 100%;
-    border: 3px solid #0099FF;
-    margin: 0 auto;
-	display: table;
-}
-
-#benefits .icon .fa {
-	font-size: 38px;
-	color: #0099FF;
-	display: table-cell;
-	vertical-align: middle;
-}
-
-#benefits .item {
-    padding-bottom: 40px;
-}
-
-#benefits .item p {
-	padding: 0 10px;
-}
-
-#benefits .devices {
-	margin-top: -280px;
-	max-width: 300px;
-}
-
-#benefits .alexa {
-	margin-top: -350px;
-	max-height: 350px;
-}
-
-#benefits .google-home {
-	margin-top: -286px;
-	max-height: 240px;
-}
-
 
 
 /* Demo */
@@ -262,6 +217,51 @@ section {
 }
 
 
+
+/* Benefits */
+
+#benefits {
+    background-color: rgb(238, 238, 238);
+}
+
+#benefits .icon {
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+    border: 3px solid #0099FF;
+    margin: 0 auto;
+	display: table;
+}
+
+#benefits .icon .fa {
+	font-size: 38px;
+	color: #0099FF;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#benefits .item {
+    padding-bottom: 40px;
+}
+
+#benefits .item p {
+	padding: 0 10px;
+}
+
+#benefits .devices {
+	margin-top: -280px;
+	max-width: 300px;
+}
+
+#benefits .alexa {
+	margin-top: -350px;
+	max-height: 350px;
+}
+
+#benefits .google-home {
+	margin-top: -286px;
+	max-height: 240px;
+}
 
 
 /* Features */
