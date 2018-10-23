@@ -312,6 +312,27 @@ section {
 }
 
 
+/* Up Next */
+
+#up-next {
+	background-color: rgb(238, 238, 238);
+}
+
+#up-next img {
+	max-width: 250px;
+}
+
+#up-next .cta {
+	background-color: white;
+}
+
+#up-next .triangle-isosceles:after {
+	right: 100px;
+	border-color: white transparent;
+}
+
+
+
 /* Alexa CTA */
 
 #alexa-skill {
@@ -331,25 +352,6 @@ section {
 	border-color: rgb(238, 238, 238) transparent;
 }
 
-
-/* Up Next */
-
-#up-next {
-	background-color: rgb(238, 238, 238);
-}
-
-#up-next img {
-	max-width: 250px;
-}
-
-#up-next .cta {
-	background-color: white;
-}
-
-#up-next .triangle-isosceles:after {
-	right: 100px;
-	border-color: white transparent;
-}
 
 
 /* Footer */
